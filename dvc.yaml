@@ -1,0 +1,10 @@
+stages:
+  train_knn:
+    cmd: python train_knn.py
+    deps:
+      - train_knn.py
+      - data/iris.csv   # optional
+    outs:
+      - knn_model.pkl
+    metrics:
+      - metrics.json
