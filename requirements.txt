@@ -1,4 +1,8 @@
 fastapi
 uvicorn
 scikit-learn
-python-multipart
+joblib
+numpy
+pandas
+mlflow
+dvc[s3]  # or your remote type if using DVC

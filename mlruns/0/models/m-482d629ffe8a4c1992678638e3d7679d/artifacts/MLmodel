@@ -1,0 +1,22 @@
+artifact_path: file:///C:/iris-project/mlruns/0/models/m-482d629ffe8a4c1992678638e3d7679d/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.4.0
+model_id: m-482d629ffe8a4c1992678638e3d7679d
+model_size_bytes: 6779
+model_uuid: m-482d629ffe8a4c1992678638e3d7679d
+prompts: null
+run_id: a15d0063c72243839a616c652362d5c1
+utc_time_created: '2025-09-24 06:31:20.342877'

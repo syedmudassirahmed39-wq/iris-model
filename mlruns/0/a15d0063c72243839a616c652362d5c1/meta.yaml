@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/iris-project/mlruns/0/a15d0063c72243839a616c652362d5c1/artifacts
+end_time: 1758695506014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a15d0063c72243839a616c652362d5c1
+run_name: fearless-fly-383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758695480146
+status: 3
+tags: []
+user_id: ESDM

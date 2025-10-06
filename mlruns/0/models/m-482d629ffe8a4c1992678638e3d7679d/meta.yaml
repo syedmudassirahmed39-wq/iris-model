@@ -1,0 +1,10 @@
+artifact_location: file:///C:/iris-project/mlruns/0/models/m-482d629ffe8a4c1992678638e3d7679d/artifacts
+creation_timestamp: 1758695480287
+experiment_id: '0'
+last_updated_timestamp: 1758695505982
+model_id: m-482d629ffe8a4c1992678638e3d7679d
+model_type: null
+name: knn_model
+source_run_id: a15d0063c72243839a616c652362d5c1
+status: 2
+status_message: null
