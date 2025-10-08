@@ -1,0 +1,22 @@
+schema: '2.0'
+stages:
+  train_knn:
+    cmd: python train_knn.py
+    deps:
+    - path: data/iris.csv
+      hash: md5
+      md5: a22e407e87697de736e582d28856616d
+      size: 171
+    - path: train_knn.py
+      hash: md5
+      md5: 72fe40caf3f21a0882de323760200b31
+      size: 1177
+    outs:
+    - path: knn_model.pkl
+      hash: md5
+      md5: cf248bf86089c13e430c43ff898e7a4e
+      size: 10662
+    - path: metrics.json
+      hash: md5
+      md5: 9a0379eaa11dd7b9e9995a62a5f21656
+      size: 17

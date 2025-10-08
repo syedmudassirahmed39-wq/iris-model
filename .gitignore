@@ -1,2 +1,4 @@
 client_secrets.json
 .dvc/service.json
+/knn_model.pkl
+/metrics.json
