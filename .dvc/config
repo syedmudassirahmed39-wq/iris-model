@@ -1,7 +1,0 @@
-[core]
-    remote = mygdrive
-['remote "mygdrive"']
-    url = gdrive://1iIqNLc7g27edRsvXwDnlrNB-aLmxwjNc
-    gdrive_use_service_account=true
-    gdrive_client_id=817440182401-a527ndsfab3td205v375t55gku0vuj12.apps.googleusercontent.com
-    gdrive_service_account_json_file_path=service.json
